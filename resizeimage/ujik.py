@@ -3,7 +3,7 @@ import os
 
 print(""" 
 -------------------------
-$ Create by Ujikstark 
+$ Created by Ujikstark 
 $ ig: @ujikpoi
 -------------------------
                 '-.
