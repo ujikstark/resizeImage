@@ -15,7 +15,7 @@ $ ig: @ujikpoi
 
 """)     
 file_image = input("Image : ") #input user
-pic = Image.open('./ujiktest/'+ file_image) #open file
+pic = Image.open('./image/'+ file_image) #open file
 
 if pic.mode in ("RGBA", "P"):
     pic = pic.convert("RGB")
