@@ -1,1 +1,1 @@
-**Resize a lot of Image with Python
+# Resize a lot of Image with Python
